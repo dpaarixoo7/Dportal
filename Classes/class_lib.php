@@ -1,5 +1,6 @@
 <?php
 // here we set our classes
+// database connection class
 class database_credentials {
   
   private $host;
@@ -27,4 +28,14 @@ class database_credentials {
   
 }
 
+?>
+
+<?php
+// news class
+class news{
+  
+   public $news;
+  
+  
+}
 ?>
