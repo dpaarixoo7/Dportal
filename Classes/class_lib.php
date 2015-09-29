@@ -31,7 +31,12 @@ class database_credentials {
 // news class
 class news{
   
-   public $news;
+   var $news;
+   var $title;
+   var $summary;
+   var $content;
+   var $timeposted;
+   
   
 }
 ?>
