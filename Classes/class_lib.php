@@ -1,5 +1,5 @@
 <?php
-
+// here we set our classes
 class database_credentials {
   
   private $host;
