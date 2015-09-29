@@ -28,14 +28,10 @@ class database_credentials {
   
 }
 
-?>
-
-<?php
 // news class
 class news{
   
    public $news;
-  
   
 }
 ?>
