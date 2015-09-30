@@ -54,7 +54,7 @@
                         <label class="switch switch-green block">
                             <input type="checkbox" name="remember" id="remember" checked>
                             <label for="remember" data-on="YES" data-off="NO"></label> 
-                            <span> Keep me logged in ?</span>
+                            <span> Keep me logged in.</span>
                         </label>
                     </div><!-- end section -->                                                           
                     
